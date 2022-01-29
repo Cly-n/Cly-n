@@ -8,3 +8,5 @@
 Cly-n/Cly-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Am in a college
+Taking Electrical Engineering
